@@ -19,6 +19,7 @@ cp database.yml.example database.yml
 cp secrets.yml.example secrets.yml
 
 ```
+#### .ENV file
 
 Need .env file with production or staging enviroment
 ```cmd
