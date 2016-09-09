@@ -21,14 +21,12 @@ RAILS_SERVE_STATIC_FILES | This will allow a new Rails 4.2+ app to serve static 
 RUBYCOLANTOTTE_USER_NAME | Define user access database Mysql |
 RUBYCOLANTOTTE_DATABASE_PASSWORD | Password for user |
 SECRET_KEY_BASE | Run `rake secret` |
-
 DOMAIN_HOST | Domain name of system |
 MAIL_PORT | Port send mail (587, 495, 2525) |
 MAIL_USERNAME | User name login to mail server |
 MAIL_PASSWORD | Password login to mail server |
 MAIL_HOST | Mail host (smtp.gmail.com ...) |
 MAIL_DOMAIN_HOST | Domain host (gmail.com ...) |
-
 MAIL_SENDER | COLANTOTTE |
 MAIL_FROM | collantotte@framgia.com |
 
