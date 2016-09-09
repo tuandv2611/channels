@@ -14,6 +14,9 @@ cp secrets.yml.example secrets.yml
 ```
 
 Need .env file with production or staging enviroment
+```cmd
+sudo nano .env
+```
 
 Properties        | Description |
 ---                       |  ---|
