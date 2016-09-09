@@ -8,9 +8,16 @@ Framgia x COLANTOTTE
 
 ## Configure Options
 
+#### Database config 
 ```cmd
 cp database.yml.example database.yml
+```
+
+#### Secrets config
+
+```cmd
 cp secrets.yml.example secrets.yml
+
 ```
 
 Need .env file with production or staging enviroment
